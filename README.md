@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**pbk0/pbk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- 
+https://github.com/anuraghazra/github-readme-stats
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+ 
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=dracula)
+
+<!-- [![Praveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pbk0)](https://github.com/pbk0) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbk0)](https://github.com/pbk0) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&show_owner=true)](https://github.com/SpikingNeurons/toolcraft)
+
