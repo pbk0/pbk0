@@ -13,6 +13,14 @@ https://github.com/anuraghazra/github-readme-stats
 - ⚡ Fun fact: ...
  -->
  
+
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=dracula)
 
 <!-- [![Praveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pbk0)](https://github.com/pbk0) -->
@@ -20,9 +28,3 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbk0)](https://github.com/pbk0) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&show_owner=true)](https://github.com/SpikingNeurons/toolcraft)
-
-![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-light-mode-only)
