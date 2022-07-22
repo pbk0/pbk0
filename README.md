@@ -21,3 +21,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&show_owner=true)](https://github.com/SpikingNeurons/toolcraft)
 
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/languages.svg#gh-light-mode-only)
