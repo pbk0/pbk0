@@ -16,6 +16,12 @@ https://github.com/anuraghazra/github-readme-stats
 ![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowdark#gh-dark-mode-only)
 ![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight#gh-light-mode-only)
 
+
+*   Compact layout
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+
+
 *   Hiding specific stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&hide=contribs,issues)
@@ -24,8 +30,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=dark&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
-![](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=light)
+![](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=dark\&layout=compact\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
+![](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&layout=compact)
 
 ![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-light-mode-only)
