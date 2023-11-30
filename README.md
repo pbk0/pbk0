@@ -15,8 +15,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 *   Stackoverflow
   
-![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowdark#gh-dark-mode-only)
-![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight#gh-light-mode-only)
+![Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowdark#gh-dark-mode-only)
+![Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight#gh-light-mode-only)
 
 
 *   Github
