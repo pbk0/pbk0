@@ -12,7 +12,9 @@ https://github.com/anuraghazra/github-readme-stats
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- 
+
+ ![](https://stackoverflow-card.vercel.app/?userID={_user_id}&theme=stackoverflowdark#gh-dark-mode-only)
+ ![](https://stackoverflow-card.vercel.app/?userID={_user_id}&theme=stackoverflowlight#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-light-mode-only)
