@@ -29,11 +29,7 @@ https://github.com/anuraghazra/github-readme-stats
 </table>
 
  
-
-
-
-
-
 *   Github Repos
+
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&show_owner=true)](https://github.com/SpikingNeurons/toolcraft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura)](https://github.com/SpikingNeurons/toolcraft)
