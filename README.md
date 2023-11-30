@@ -24,7 +24,7 @@ https://github.com/anuraghazra/github-readme-stats
 </td>
 <td width="50%">
 <a href="https://github.com/pbk0" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=one_dark_pro&rank_icon=percentile&show=discussions_started,prs_merged,prs_merged_percentage&custom_title=Github%20stats%20for%20Praveen%20Kulkarni" alt="PBK GitHub stats" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=one_dark_pro&rank_icon=percentile&show=discussions_started,prs_merged&custom_title=Github%20stats%20for%20Praveen%20Kulkarni" alt="PBK GitHub stats" style="width:100%;"/>
 </a>
 </table>
 
