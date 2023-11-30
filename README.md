@@ -37,7 +37,7 @@ https://github.com/anuraghazra/github-readme-stats
 <tr>
 <td align="center">
 <a href="https://github.com/SpikingNeurons/toolcraft" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura" alt="toolcraft" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=one_dark_pro" alt="toolcraft" style="width:100%;"/>
 </a>
 </td>
 <td align="center">
