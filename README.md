@@ -21,7 +21,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 *   Github
 
-![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=dark\&rank_icon=percentile\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
+![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=one_dark_pro\&rank_icon=percentile\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
 ![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&rank_icon=percentile\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
 
 ![PBK Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&theme=dark)
