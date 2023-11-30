@@ -29,7 +29,7 @@ https://github.com/anuraghazra/github-readme-stats
 </table>
 
  
-*   PyPi libraries
+*   pip libraries on PyPi
 
 <table border="0">
 <tr>
