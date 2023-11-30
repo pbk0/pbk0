@@ -28,7 +28,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 *   Showing additional stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=dark\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=dark\&layout=compact\&rank_icon=percentile\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)
 ![](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&layout=compact\&rank_icon=percentile)
