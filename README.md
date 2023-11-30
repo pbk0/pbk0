@@ -14,14 +14,12 @@ https://github.com/anuraghazra/github-readme-stats
  -->
 
 *   Stackoverflow
+  
 <a href="https://stackoverflow.com/users/5681083/praveen-kulkarni?tab=topactivity" target="_blank" rel="noopener noreferrer">
 <p align="center">
   <img src="https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight" alt="Stackoverflow stats" style="width:50%;"/>
 </p>
 </a>
-
-[![Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight)](https://stackoverflow.com/users/5681083/praveen-kulkarni?tab=topactivity)
-
 
 *   Github
 
@@ -32,7 +30,6 @@ https://github.com/anuraghazra/github-readme-stats
 </p>
 </a>
 
-[![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=light&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)](https://github.com/pbk0)
 
 
 *   Github Repos
