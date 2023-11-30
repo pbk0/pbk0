@@ -16,7 +16,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowdark#gh-dark-mode-only)
 ![](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight#gh-light-mode-only)
 
-![](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=dark&custom_title=Github%20stats%20for%20<username>)
+![](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=dark&custom_title=Github%20stats%20for%20%3Cusername%3E)
 ![](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=light)
 
 ![](https://raw.githubusercontent.com/pbk0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
