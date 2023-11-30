@@ -14,7 +14,11 @@ https://github.com/anuraghazra/github-readme-stats
  -->
 
 *   Stackoverflow
-  
+
+<p align="center">
+  <img src="https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight" alt="Stackoverflow stats"/>
+</p>
+
 [![Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=5681083&theme=stackoverflowlight)](https://stackoverflow.com/users/5681083/praveen-kulkarni?tab=topactivity)
 
 
