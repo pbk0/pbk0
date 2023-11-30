@@ -26,6 +26,8 @@ https://github.com/anuraghazra/github-readme-stats
 <a href="https://github.com/pbk0" target="_blank" rel="noopener noreferrer">
 <img src="https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=one_dark_pro&rank_icon=percentile&show=prs_merged&custom_title=Github%20stats%20for%20Praveen%20Kulkarni" alt="PBK GitHub stats" style="width: 100%; height: 50%;"/>
 </a>
+</td>
+</tr>
 </table>
 
  
@@ -35,33 +37,34 @@ https://github.com/anuraghazra/github-readme-stats
 <tr>
 <td align="center">
 <a href="https://github.com/SpikingNeurons/toolcraft" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura" alt="toolcraft" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura" alt="toolcraft" style="width:100%;"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/SpikingNeurons/marshalling" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=marshalling&theme=aura" alt="marshalling" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=marshalling&theme=aura" alt="marshalling" style="width:100%;"/>
 </a>
 </td>
-<tr>
 <td align="center">
 <a href="https://github.com/SpikingNeurons/mlcraft" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mlcraft&theme=aura" alt="mlcraft" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mlcraft&theme=aura" alt="mlcraft" style="width:100%;"/>
 </a>
 </td>
-<td align="center">
-<a href="https://github.com/SpikingNeurons/texipy" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=texipy&theme=aura" alt="TeXiPy" style="width:33%;"/>
-</a>
-</td>
+</tr>
 <tr>
 <td align="center">
-<a href="https://github.com/SpikingNeurons/mkdocs-social-plugin" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mkdocs-social-plugin&theme=aura" alt="mkdocs-social-plugin" style="width:33%;"/>
+<a href="https://github.com/SpikingNeurons/texipy" target="_blank" rel="noopener noreferrer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=texipy&theme=aura" alt="TeXiPy" style="width:100%;"/>
 </a>
-<td align="center">
-<td>
 </td>
+<td align="center">
+<a href="https://github.com/SpikingNeurons/mkdocs-social-plugin" target="_blank" rel="noopener noreferrer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mkdocs-social-plugin&theme=aura" alt="mkdocs-social-plugin" style="width:100%;"/>
+</a>
+</td>
+<td align="center">
+</td>
+</tr>
 </table>
 
   
