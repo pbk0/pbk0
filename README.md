@@ -26,10 +26,10 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&rank_icon=percentile\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni" alt="PBK GitHub stats" style="width:60%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=light&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Github%20stats%20for%20Praveen%20Kulkarni" alt="PBK GitHub stats" style="width:60%;"/>
 </p>
 
-[![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0\&show_icons=true\&theme=light\&rank_icon=percentile\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)](https://github.com/pbk0)
+[![PBK GitHub stats](https://github-readme-stats.vercel.app/api?username=pbk0&show_icons=true&theme=light&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Github%20stats%20for%20Praveen%20Kulkarni)](https://github.com/pbk0)
 
 
 *   Github Repos
