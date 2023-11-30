@@ -15,7 +15,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 *   Stackoverflow and Github stats
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td width="50%">
 <a href="https://stackoverflow.com/users/5681083/praveen-kulkarni?tab=topactivity" target="_blank" rel="noopener noreferrer">
@@ -33,7 +33,7 @@ https://github.com/anuraghazra/github-readme-stats
  
 *   pip libraries on PyPi
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td align="center">
 <a href="https://github.com/SpikingNeurons/toolcraft" target="_blank" rel="noopener noreferrer">
