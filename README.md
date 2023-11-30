@@ -35,29 +35,29 @@ https://github.com/anuraghazra/github-readme-stats
 <tr>
 <td>
 <a href="https://github.com/SpikingNeurons/toolcraft" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura" alt="toolcraft" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=toolcraft&theme=aura" alt="toolcraft" style="width:70%;"/>
 </a>
 </td>
 <td>
 <a href="https://github.com/SpikingNeurons/marshalling" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=marshalling&theme=aura" alt="marshalling" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=marshalling&theme=aura" alt="marshalling" style="width:70%;"/>
 </a>
 </td>
 <tr>
 <td>
 <a href="https://github.com/SpikingNeurons/mlcraft" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mlcraft&theme=aura" alt="mlcraft" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mlcraft&theme=aura" alt="mlcraft" style="width:70%;"/>
 </a>
 </td>
 <td>
 <a href="https://github.com/SpikingNeurons/texipy" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=texipy&theme=aura" alt="TeXiPy" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=texipy&theme=aura" alt="TeXiPy" style="width:70%;"/>
 </a>
 </td>
 <tr>
 <td>
 <a href="https://github.com/SpikingNeurons/mkdocs-social-plugin" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mkdocs-social-plugin&theme=aura" alt="mkdocs-social-plugin" style="width:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpikingNeurons&repo=mkdocs-social-plugin&theme=aura" alt="mkdocs-social-plugin" style="width:70%;"/>
 </a>
 </td>
 <td>
